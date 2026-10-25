@@ -1,0 +1,12 @@
+C:\Users\arkus\Downloads\vibrance\src\bin\Release\net8.0-windows\win-x64\Vibrance.exe
+C:\Users\arkus\Downloads\vibrance\src\bin\Release\net8.0-windows\win-x64\Vibrance.deps.json
+C:\Users\arkus\Downloads\vibrance\src\bin\Release\net8.0-windows\win-x64\Vibrance.runtimeconfig.json
+C:\Users\arkus\Downloads\vibrance\src\bin\Release\net8.0-windows\win-x64\Vibrance.dll
+C:\Users\arkus\Downloads\vibrance\src\obj\Release\net8.0-windows\win-x64\Vibrance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkus\Downloads\vibrance\src\obj\Release\net8.0-windows\win-x64\Vibrance.AssemblyInfoInputs.cache
+C:\Users\arkus\Downloads\vibrance\src\obj\Release\net8.0-windows\win-x64\Vibrance.AssemblyInfo.cs
+C:\Users\arkus\Downloads\vibrance\src\obj\Release\net8.0-windows\win-x64\Vibrance.csproj.CoreCompileInputs.cache
+C:\Users\arkus\Downloads\vibrance\src\obj\Release\net8.0-windows\win-x64\Vibrance.dll
+C:\Users\arkus\Downloads\vibrance\src\obj\Release\net8.0-windows\win-x64\refint\Vibrance.dll
+C:\Users\arkus\Downloads\vibrance\src\obj\Release\net8.0-windows\win-x64\Vibrance.genruntimeconfig.cache
+C:\Users\arkus\Downloads\vibrance\src\obj\Release\net8.0-windows\win-x64\ref\Vibrance.dll
